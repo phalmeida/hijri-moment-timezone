@@ -1,4 +1,4 @@
-# [Moment Timezone](http://momentjs.com/timezone/)
+# [Hijri Moment Timezone](http://momentjs.com/timezone/)
 
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-download-url]
