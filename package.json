@@ -28,7 +28,7 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"moment-hijri": ">=2.1.0"
+		"moment-hijri": "git+ssh://git@github.com:philips-emr/moment-hijri.git#SO-2555798"
 	},
 	"devDependencies": {
 		"grunt": "1.0.4",
