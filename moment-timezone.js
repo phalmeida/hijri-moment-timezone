@@ -29,7 +29,7 @@
 	// 	return moment;
 	// }
 
-	var VERSION = "0.5.34",
+	var VERSION = "0.5.345",
 		zones = {},
 		links = {},
 		countries = {},
