@@ -1,6 +1,6 @@
 {
 	"name": "hijri-moment-timezone",
-	"version": "0.5.34",
+	"version": "0.5.344",
 	"description": "add timezone support to moment-hijri",
 	"homepage": "http://momentjs.com/timezone/",
 	"author": "Philipe Allan Almeida <philipeph3@gmail.com>",
